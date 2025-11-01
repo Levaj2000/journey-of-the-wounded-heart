@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-start: #0b1020;
+  --bg-end: #1b223d;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background: radial-gradient(60% 60% at 50% 40%, var(--bg-end), var(--bg-start));
+  color: #e6e9f5;
+}
+
+.glow {
+  text-shadow: 0 0 16px rgba(164, 213, 255, 0.5);
+}
