@@ -1,0 +1,3 @@
+module.exports=[42854,a=>{"use strict";var b=a.i(36893);function c({children:a}){return(0,b.jsx)("html",{lang:"en",children:(0,b.jsx)("body",{className:"min-h-screen antialiased",children:a})})}a.s(["default",()=>c,"metadata",0,{title:"The Journey of the Wounded Heart",description:"Spirit • Soul • Body — an interactive healing exploration"}])}];
+
+//# sourceMappingURL=Projects_journey-of-the-wounded-heart_skeleton_src_app_layout_tsx_ae0175e6._.js.map

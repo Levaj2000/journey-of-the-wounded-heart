@@ -1,0 +1,3 @@
+module.exports=[29664,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(56887);a.n(d("[project]/Projects/journey-of-the-wounded-heart_skeleton/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},53778,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(56887);a.n(d("[project]/Projects/journey-of-the-wounded-heart_skeleton/node_modules/next/dist/client/components/builtin/global-error.js"))},63230,a=>{"use strict";a.i(29664);var b=a.i(53778);a.n(b)}];
+
+//# sourceMappingURL=c4e33_next_dist_client_components_builtin_global-error_116e8dc4.js.map
