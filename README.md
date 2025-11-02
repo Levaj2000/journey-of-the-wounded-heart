@@ -51,3 +51,4 @@ npm run start
 - This skeleton uses static export so SSR/APIs are not enabled by default. When you need dynamic APIs or auth, consider moving to Azure Static Web Apps with an **API backend** (Azure Functions) or to **Azure App Service**.
 
 Enjoy building! 🌿
+# redeploy trigger
